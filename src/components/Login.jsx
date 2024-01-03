@@ -19,9 +19,7 @@ const login = () => {
                         <input type="checkbox" name="" id="remember" />
                         <label htmlFor="remember" className='ml-1'>Recordarme</label>
                     </div>
-                    <div>
-                        <a href="#" className='text-red-600 font-semibold'>Olvidé mi contraseña</a>
-                    </div>
+
                 </div>
                 <div className='mt-5'>
                     <button type='submit' className='border-2 border-cyan-700 bg-cyan-700 text-white py-1 w-full rounded-md hover:bg-transparent hover:text-cyan-700 font-semibold'>Acceder</button>
