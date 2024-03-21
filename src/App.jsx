@@ -1,14 +1,14 @@
 
-import Login from './components/login'
+import PersonalInfo from './components/PersonalInfo'
 
 
 function App() {
 
   return (
     <>
-      <Login />
+      <PersonalInfo />
     </>
   )
 }
 
-export default App
+export default App;
